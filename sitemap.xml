@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.wxjxw.cn/posts/26676571.html</loc>
+    
+    <lastmod>2024-02-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.wxjxw.cn/posts/45f42a1.html</loc>
     
     <lastmod>2024-02-29</lastmod>
@@ -389,7 +398,7 @@
   </url>
   
   <url>
-    <loc>https://www.wxjxw.cn/site/time/index.html</loc>
+    <loc>https://www.wxjxw.cn/site/census/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -398,7 +407,7 @@
   </url>
   
   <url>
-    <loc>https://www.wxjxw.cn/site/census/index.html</loc>
+    <loc>https://www.wxjxw.cn/site/time/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -448,7 +457,14 @@
   </url>
   
   <url>
-    <loc>https://www.wxjxw.cn/tags/English/</loc>
+    <loc>https://www.wxjxw.cn/tags/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2024-02-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.wxjxw.cn/tags/hexo/</loc>
     <lastmod>2024-02-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -469,6 +485,13 @@
   </url>
   
   <url>
+    <loc>https://www.wxjxw.cn/tags/English/</loc>
+    <lastmod>2024-02-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.wxjxw.cn/tags/%E7%A7%91%E5%88%9B/</loc>
     <lastmod>2024-02-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -477,20 +500,6 @@
   
   <url>
     <loc>https://www.wxjxw.cn/tags/%E8%8B%B1%E8%AF%AD/</loc>
-    <lastmod>2024-02-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.wxjxw.cn/tags/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2024-02-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.wxjxw.cn/tags/hexo/</loc>
     <lastmod>2024-02-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -518,13 +527,6 @@
   </url>
   
   <url>
-    <loc>https://www.wxjxw.cn/tags/%E5%87%A0%E4%BD%95%E7%94%BB%E6%9D%BF/</loc>
-    <lastmod>2024-02-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.wxjxw.cn/tags/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2024-02-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -533,6 +535,13 @@
   
   <url>
     <loc>https://www.wxjxw.cn/tags/%E6%97%A5%E5%B8%B8/</loc>
+    <lastmod>2024-02-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.wxjxw.cn/tags/%E5%87%A0%E4%BD%95%E7%94%BB%E6%9D%BF/</loc>
     <lastmod>2024-02-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
