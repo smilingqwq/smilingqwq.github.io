@@ -6,7 +6,7 @@
   <link href="https://www.wxjxw.cn/atom.xml" rel="self"/>
   
   <link href="https://www.wxjxw.cn/"/>
-  <updated>2024-03-17T08:08:14.134Z</updated>
+  <updated>2024-03-17T08:10:38.431Z</updated>
   <id>https://www.wxjxw.cn/</id>
   
   <author>
@@ -21,16 +21,12 @@
     <link href="https://www.wxjxw.cn/posts/af99d22e.html"/>
     <id>https://www.wxjxw.cn/posts/af99d22e.html</id>
     <published>2024-03-17T08:05:13.000Z</published>
-    <updated>2024-03-17T08:08:14.134Z</updated>
+    <updated>2024-03-17T08:10:38.431Z</updated>
     
     <content type="html"><![CDATA[<p>插入以下代码即可</p><figure class="highlight abnf"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line">&lt;iframe</span><br><span class="line"></span><br><span class="line"><span class="attribute">height</span><span class="operator">=</span><span class="number">850</span></span><br><span class="line"></span><br><span class="line"><span class="attribute">width</span><span class="operator">=</span><span class="number">90</span>%</span><br><span class="line"></span><br><span class="line"><span class="attribute">src</span><span class="operator">=</span><span class="string">&quot;网址&quot;</span></span><br><span class="line"></span><br><span class="line"><span class="attribute">frameborder</span><span class="operator">=</span><span class="number">0</span></span><br><span class="line"></span><br><span class="line">allowfullscreen&gt;</span><br><span class="line"></span><br><span class="line">&lt;/iframe&gt;</span><br></pre></td></tr></table></figure>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;p&gt;插入以下代码即可&lt;/p&gt;
-&lt;figure class=&quot;highlight abnf&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;</summary>
-      
+    <summary type="html">保留备忘</summary>
     
     
     
