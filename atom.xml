@@ -6,7 +6,7 @@
   <link href="https://www.wxjxw.cn/atom.xml" rel="self"/>
   
   <link href="https://www.wxjxw.cn/"/>
-  <updated>2024-02-29T06:57:48.208Z</updated>
+  <updated>2024-03-17T08:08:14.134Z</updated>
   <id>https://www.wxjxw.cn/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>markdown内嵌网页教程</title>
+    <link href="https://www.wxjxw.cn/posts/af99d22e.html"/>
+    <id>https://www.wxjxw.cn/posts/af99d22e.html</id>
+    <published>2024-03-17T08:05:13.000Z</published>
+    <updated>2024-03-17T08:08:14.134Z</updated>
+    
+    <content type="html"><![CDATA[<p>插入以下代码即可</p><figure class="highlight abnf"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line">&lt;iframe</span><br><span class="line"></span><br><span class="line"><span class="attribute">height</span><span class="operator">=</span><span class="number">850</span></span><br><span class="line"></span><br><span class="line"><span class="attribute">width</span><span class="operator">=</span><span class="number">90</span>%</span><br><span class="line"></span><br><span class="line"><span class="attribute">src</span><span class="operator">=</span><span class="string">&quot;网址&quot;</span></span><br><span class="line"></span><br><span class="line"><span class="attribute">frameborder</span><span class="operator">=</span><span class="number">0</span></span><br><span class="line"></span><br><span class="line">allowfullscreen&gt;</span><br><span class="line"></span><br><span class="line">&lt;/iframe&gt;</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;插入以下代码即可&lt;/p&gt;
+&lt;figure class=&quot;highlight abnf&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;</summary>
+      
+    
+    
+    
+    <category term="教程" scheme="https://www.wxjxw.cn/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="教程" scheme="https://www.wxjxw.cn/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="hexo" scheme="https://www.wxjxw.cn/tags/hexo/"/>
+    
+  </entry>
   
   <entry>
     <title>时光本无罪</title>
@@ -448,29 +475,6 @@
     <category term="电影" scheme="https://www.wxjxw.cn/tags/%E7%94%B5%E5%BD%B1/"/>
     
     <category term="绿皮书" scheme="https://www.wxjxw.cn/tags/%E7%BB%BF%E7%9A%AE%E4%B9%A6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>hexo部署Twikoo评论系统教程</title>
-    <link href="https://www.wxjxw.cn/posts/8056c1d6.html"/>
-    <id>https://www.wxjxw.cn/posts/8056c1d6.html</id>
-    <published>2023-11-15T08:35:09.000Z</published>
-    <updated>2023-11-15T08:42:42.000Z</updated>
-    
-    <content type="html"><![CDATA[<h1>hexo部署Twikoo评论系统</h1><h2 id="何为Twikoo">何为Twikoo</h2><p><em>一个简洁、安全、免费的静态网站评论系统。</em></p><h2 id="云函数Vercel部署">云函数Vercel部署</h2><p>申请 <a href="https://www.mongodb.com/cloud/atlas/register">MongoDB</a> 账号</p><p>创建免费 MongoDB 数据库，区域推荐选择 <code>AWS / N. Virginia (us-east-1)</code></p><p>在 Database Access 页面点击 Add New Database User 创建数据库用户，Authentication Method 选 Password，在 Password Authentication 下设置数据库用户名和密码，用户名和密码可包含数字和大小写字母，请勿包含特殊符号。点击 Database User Privileges 下方的 Add Built In Role，Select Role 选择 Atlas Admin，最后点击 Add User</p><p><img src="https://twikoo.js.org/assets/mongodb-1.b467da78.png" alt=""></p><p>在 Network Access 页面点击 Add IP Address，Access List Entry 输入 <code>0.0.0.0/0</code>（允许所有 IP 地址的连接），点击 Confirm</p><p><img src="https://twikoo.js.org/assets/mongodb-2.d2431ba3.png" alt=""></p><p>在 Database 页面点击 Connect，连接方式选择 Drivers，并记录数据库连接字符串，请将连接字符串中的 <code>&lt;username&gt;:&lt;password&gt;</code> 修改为刚刚创建的数据库 <code>用户名:密码</code></p><p><img src="https://twikoo.js.org/assets/mongodb-3.98ac6e22.png" alt=""></p><p>申请 <a href="https://vercel.com/signup">Vercel</a> 账号</p><p>点击以下按钮将 Twikoo 一键部署到 Vercel</p><p><a href="https://vercel.com/import/project?template=https://github.com/twikoojs/twikoo/tree/main/src/server/vercel-min"><img src="https://vercel.com/button" alt=""></a></p><p>进入 Settings - Environment Variables，添加环境变量 <code>MONGODB_URI</code>，值为前面记录的数据库连接字符串</p><p>进入 Deployments , 然后在任意一项后面点击更多（三个点） , 然后点击Redeploy , 最后点击下面的Redeploy</p><p>进入 Overview，点击 Domains 下方的链接，如果环境配置正确，可以看到 “Twikoo 云函数运行正常” 的提示</p><p>Vercel Domains（包含 <code>https://</code> 前缀，例如 <code>https://xxx.vercel.app</code>）即为您的环境 id</p><h2 id="部署至hexo前端">部署至hexo前端</h2><p>以博主使用的butterfly主题为例，在主题配置文件中修改以下代码</p><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">comments:</span></span><br><span class="line">  <span class="comment"># Up to two comments system, the first will be shown as default</span></span><br><span class="line">  <span class="comment"># Choose: Disqus/Disqusjs/Livere/Gitalk/Valine/Waline/Utterances/Facebook Comments/Twikoo/Giscus/Remark42</span></span><br><span class="line">  <span class="attr">use:</span></span><br><span class="line">    <span class="bullet">-</span> <span class="string">Twikoo</span> <span class="comment"># Valine,Disqus,...</span></span><br><span class="line">  <span class="attr">text:</span> <span class="literal">true</span> <span class="comment"># Display the comment name next to the button</span></span><br><span class="line">  <span class="comment"># lazyload: The comment system will be load when comment element enters the browser&#x27;s viewport.</span></span><br><span class="line">  <span class="comment"># If you set it to true, the comment count will be invalid</span></span><br><span class="line">  <span class="attr">lazyload:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">count:</span> <span class="literal">true</span> <span class="comment"># Display comment count in post&#x27;s top_img</span></span><br><span class="line">  <span class="attr">card_post_count:</span> <span class="literal">false</span> <span class="comment"># Display comment count in Home Page                                           </span></span><br></pre></td></tr></table></figure><p>之后修改</p><figure class="highlight dts"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="symbol">twikoo:</span></span><br><span class="line"><span class="symbol">  envId:</span>你刚刚获取的环境id</span><br><span class="line"><span class="symbol">  region:</span></span><br><span class="line"><span class="symbol">  visitor:</span> false</span><br><span class="line"><span class="symbol">  option:</span></span><br></pre></td></tr></table></figure><p>hexo三连即可</p><h1>参考</h1><p><a href="https://butterfly.js.org/posts/ceeb73f/#%E8%A9%95%E8%AB%96" title="点击">butterfly安装文档</a></p><p><a href="https://twikoo.js.org/frontend.html" title="点击">Twikoo文档</a></p>]]></content>
-    
-    
-    <summary type="html">🥧本文介绍了部署评论系统的教程</summary>
-    
-    
-    
-    <category term="教程" scheme="https://www.wxjxw.cn/categories/%E6%95%99%E7%A8%8B/"/>
-    
-    
-    <category term="教程" scheme="https://www.wxjxw.cn/tags/%E6%95%99%E7%A8%8B/"/>
-    
-    <category term="hexo" scheme="https://www.wxjxw.cn/tags/hexo/"/>
     
   </entry>
   

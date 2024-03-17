@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>markdown内嵌网页教程</title>
+      <link href="/posts/af99d22e.html"/>
+      <url>/posts/af99d22e.html</url>
+      
+        <content type="html"><![CDATA[<p>插入以下代码即可</p><figure class="highlight abnf"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line">&lt;iframe</span><br><span class="line"></span><br><span class="line"><span class="attribute">height</span><span class="operator">=</span><span class="number">850</span></span><br><span class="line"></span><br><span class="line"><span class="attribute">width</span><span class="operator">=</span><span class="number">90</span>%</span><br><span class="line"></span><br><span class="line"><span class="attribute">src</span><span class="operator">=</span><span class="string">&quot;网址&quot;</span></span><br><span class="line"></span><br><span class="line"><span class="attribute">frameborder</span><span class="operator">=</span><span class="number">0</span></span><br><span class="line"></span><br><span class="line">allowfullscreen&gt;</span><br><span class="line"></span><br><span class="line">&lt;/iframe&gt;</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 教程 </tag>
+            
+            <tag> hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>时光本无罪</title>
       <link href="/posts/26676571.html"/>
       <url>/posts/26676571.html</url>
