@@ -3175,7 +3175,7 @@ if (localStorage.getItem("blogbg") != undefined) {
 } else {
   document.getElementById("defineBg").innerText = `:root{
     --default-bg: url(https://pic.imgdb.cn/item/65e54d3a9f345e8d035c0d6d.jpg);
-    --darkmode-bg: url(https://picdl.sunbangyan.cn/2023/11/17/4c0f84cdedc89b59741c47c74b74a784.jpg);
+    --darkmode-bg: url(https://pic.imgdb.cn/item/65f680959f345e8d0337c981.jpg);
     --mobileday-bg: url(https://picst.sunbangyan.cn/2023/11/17/11b58a8d36d2e923db4d69928280d94c.jpg);
     --mobilenight-bg: url(https://picdl.sunbangyan.cn/2023/11/17/4c0f84cdedc89b59741c47c74b74a784.jpg);
   }`;
