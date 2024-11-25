@@ -6,7 +6,7 @@
   <link href="https://www.wxjxw.cn/atom.xml" rel="self"/>
   
   <link href="https://www.wxjxw.cn/"/>
-  <updated>2024-05-12T14:16:42.770Z</updated>
+  <updated>2024-11-25T08:34:20.201Z</updated>
   <id>https://www.wxjxw.cn/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>秋季随笔</title>
+    <link href="https://www.wxjxw.cn/posts/f06b3f34.html"/>
+    <id>https://www.wxjxw.cn/posts/f06b3f34.html</id>
+    <published>2024-11-25T08:25:54.000Z</published>
+    <updated>2024-11-25T08:34:20.201Z</updated>
+    
+    <content type="html"><![CDATA[<h1>关于爱德思泄题的一些想法</h1><p>有人说，经济和高数考前好似一场万圣狂欢，卖答案的机构抢着客单，巴不得把答案塞给考生，不拿就捣蛋。<br>今天重温了泰国的一部经典电影《天才枪手》，电影中的主人公利用时差在SAT类型的考试中传递答案，以此获取高额利润。有一段话让我印象很深刻：“我们需要钱，他们需要答案，这是一个双赢的局面，我们也没有触碰其他人的利益啊”。乍一看好像没有错，一方要答案，一方赚到了钱，这样的交易貌似很合理。那请问，当考生们辛辛苦苦备考，考完发现其他人提前锁定了高分，他们又是什么感受？这不是触碰其他人的利益，而是赤裸裸的损害其他人的利益。而就在这个alevel考试季，这样的事情切切实实的发生了，而且就发生在现实中。一些无耻的机构高价售卖答案，甚至在考前一天就泄露原题，极大破坏了考试的公平性。得知这个消息的我刚开始也感到震惊和愤怒，一方面利用非法交易敛财，一方面导致分数线整体的拉高，严重影响认真备考的考生的成绩和心态。在前几年的一次考试中，由于数学泄题，考试局启用了备用卷，现场打印发给考生。我也见到过因为只背答案没有过程而导致成绩全部取消的案例，在社交平台上，很多的热心同学和老师都举报了贩卖答案的帖子。由此可以看出，大部分同学还是站在正义和诚信的立场上，考试局也尽力履行了维护公平的原则。<br>国际考试由于时差等种种因素，制止作弊和泄题尤其困难。但我相信真正有实力的人，根本不会参与买卖答案的行为，不会去抄，又怎屑于抄？背答案可以背到a星吗？背背答案也许可以让你及格，但是绝对不可能让你优秀，更不可能让你卓越。考试可以买答案，到了大学怎么办？等到被劝退了，难不成再买一遍答案重新申请？人生没有标准答案，也买不到标准答案。唯一肯定的是，一旦失去诚信，你的人生必然是错的。既然选择了这条路，就应该踏踏实实的去走，坦坦荡荡的去赢。努力得来的阅历是标准答案无法诠释的，天道酬勤才是真理。<br>最后:那些买答案的，你赢得了高的分数，但是你的一辈子都会很低。那些卖答案的，你们不光收取不义之财，还毁了别人的人生，一声啥比都是对你们的爱称。你们的行为已经影响到了中国考生的信誉，你们应该被钉在耻辱柱上供后人乘凉。</p><h1>AMC12分析</h1><p>接下来简单从考生的视角分析一下这次amc12a卷吧。<br>整体来说，我认为难度比2023年amc有一定提升，但是存在一个基本点:似乎思维含量整体减少了，而计算量却上升了。比如在一道进位制divisible by16的题目中，考生需要利用同余进行计算，将多个值代入确认整除数特征；在一道ab+bc在ac的求值中，考生必须算出abc的正确值(分别是-8，-12，-9)。在前5题中有一道题是要求将60分为三个整数的product，并求这三个整数和的minimum positive value，答案是分解成-1-6和10，和为3，也需要一定的尝试。<br>另外一个基本点就是这张试卷似乎很注重考察审题能力。在一道长方形rotation的问题中，并不要求原顶点与原点重合，只需要其中一个顶点与原点重合即可，因此答案是6而不是12。此外我做错的那道对数问题很容易domain&gt;0的条件，导致将零种选为一种。<br>网上的预计分数线DHR全球前1%是130以上，全球5%在115上下(答对6分，不答1.5分，答错0分，共25题难度顺梯度)</p><h1>意义明确的会晤</h1><p>为贯彻落实发展西北的基本方针，深化与青海名企的多层次合作，拟定11月21日至24日与张先生于甘肃与青海地区开展首次跨省会晤，目前航班行程等均已基本安排到位。在独自乘坐航班等交通工具的情形下，我将全力保障会面的安全进行。也相信在沈芬芬女士、张华先生的统筹安排和后勤保障下，本次出访将顺利为天屹车队、脱产研究团队、微笑传媒工作室等的发展注入生动一笔，全面凝聚共识，巩固并加强与张先生的深厚友谊。预祝本次会面圆满成功！<br>根据天气情况决定青海游览时间，但是兰州行程必须连续</p>]]></content>
+    
+    
+    <summary type="html">秋季随笔合集</summary>
+    
+    
+    
+    <category term="随笔" scheme="https://www.wxjxw.cn/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="随笔" scheme="https://www.wxjxw.cn/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+    <category term="学习" scheme="https://www.wxjxw.cn/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="生活" scheme="https://www.wxjxw.cn/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+    <category term="日常" scheme="https://www.wxjxw.cn/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+  </entry>
   
   <entry>
     <title>乡土中国读后感</title>
@@ -442,29 +469,6 @@
     <category term="hexo" scheme="https://www.wxjxw.cn/tags/hexo/"/>
     
     <category term="朋友圈" scheme="https://www.wxjxw.cn/tags/%E6%9C%8B%E5%8F%8B%E5%9C%88/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>hexo博客部署AI摘要（TianLiGPT）教程</title>
-    <link href="https://www.wxjxw.cn/posts/c6d9a2d7.html"/>
-    <id>https://www.wxjxw.cn/posts/c6d9a2d7.html</id>
-    <published>2023-11-24T13:45:09.000Z</published>
-    <updated>2023-11-24T13:46:10.327Z</updated>
-    
-    <content type="html"><![CDATA[<h1>前言</h1><p>现在ai挺火的，给博客整个ai摘要岂不美哉？本文不算打广告哦，因为……确实挺好用的，并且有任何问题都可以很快反馈（博主亲身经历）</p><h1>什么是TianliGPT</h1><p>TianliGPT是一个基于GPT-3.5的文字摘要生成工具，你可以将需要提取摘要的文本内容发送给TianliGPT，稍等一会他就可以给你发送一个基于这段文本内容的摘要。</p><ul><li>实时生成的摘要</li><li>自动生成，无需人工干预</li><li>一次生成，再次生成无需消耗key</li><li>包含文字审核过滤，适用于中国大陆</li><li>支持中国大陆访问</li></ul><h1>部署ai摘要</h1><h2 id="引用">引用</h2><p>在博客靠后的位置位置引入js和css（需要在文章之后）</p><figure class="highlight xml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">link</span> <span class="attr">rel</span>=<span class="string">&quot;stylesheet&quot;</span> <span class="attr">href</span>=<span class="string">&quot;https://cdn1.tianli0.top/gh/zhheo/Post-Abstract-AI@0.15.2/tianli_gpt.css&quot;</span>&gt;</span>  </span><br><span class="line"><span class="tag">&lt;<span class="name">script</span>&gt;</span><span class="language-javascript">  </span></span><br><span class="line"><span class="language-javascript"><span class="keyword">let</span> tianliGPT_postSelector = <span class="string">&#x27;#post #article-container&#x27;</span>;  </span></span><br><span class="line"><span class="language-javascript"><span class="keyword">let</span> tianliGPT_key = <span class="string">&#x27;5Q5mpqRK5DkwT1X9Gi5e&#x27;</span>;  </span></span><br><span class="line"><span class="language-javascript"></span><span class="tag">&lt;/<span class="name">script</span>&gt;</span>  </span><br><span class="line"><span class="tag">&lt;<span class="name">script</span> <span class="attr">src</span>=<span class="string">&quot;https://cdn1.tianli0.top/gh/zhheo/Post-Abstract-AI@0.15.2/tianli_gpt.js&quot;</span>&gt;</span><span class="tag">&lt;/<span class="name">script</span>&gt;</span></span><br></pre></td></tr></table></figure><p>如果你使用的是Butterfly主题，可以在主题文件夹下的themes/butterfly/_config.yml文件中的inject属性中配置：</p><figure class="highlight xquery"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">inject:  </span><br><span class="line"> <span class="built_in"> head</span>:  </span><br><span class="line">  - <span class="language-xml"><span class="tag">&lt;<span class="name">link</span> <span class="attr">rel</span>=<span class="string">&quot;stylesheet&quot;</span> <span class="attr">href</span>=<span class="string">&quot;https://cdn1.tianli0.top/gh/zhheo/Post-Abstract-AI@0.15.2/tianli_gpt.css&quot;</span>&gt;</span>  </span></span><br><span class="line"><span class="language-xml">  bottom:  </span></span><br><span class="line"><span class="language-xml">  - </span><span class="language-xml"><span class="tag">&lt;<span class="name">script</span>&gt;</span><span class="language-javascript"><span class="keyword">let</span> tianliGPT_postSelector = <span class="string">&#x27;\#post \#article-container&#x27;</span>;<span class="keyword">let</span> tianliGPT_key = <span class="string">&#x27;5Q5mpqRK5DkwT1X9Gi5e&#x27;</span>;</span><span class="tag">&lt;/<span class="name">script</span>&gt;</span></span><span class="language-xml">  </span></span><br><span class="line"><span class="language-xml">- </span><span class="language-xml"><span class="tag">&lt;<span class="name">script</span> <span class="attr">src</span>=<span class="string">&quot;https://cdn1.tianli0.top/gh/zhheo/Post-Abstract-AI@0.15.2/tianli_gpt.js&quot;</span>&gt;</span><span class="tag">&lt;/<span class="name">script</span>&gt;</span></span></span><br></pre></td></tr></table></figure><p>我们需要更改一些参数来让这个模型运作起来。</p><p>tianliGPT_postSelector和tianliGPT_key</p><h2 id="tianliGPT-postSelector">tianliGPT_postSelector</h2><p>这个参数是填写你的博客文章所在的元素属性的选择器，在生成提交的文本时，只会将这个选择器对应的元素内的文本进行提交，并且在这个选择器对应的元素上放插入AI摘要。如果你使用的是Butterfly主题，那么为#post #article-container。</p><p>这里列出一些常见博客主题的选择器值：</p><p><img src="https://picst.sunbangyan.cn/2023/11/24/448b4c69c6782f59f4e6e5370ecacb06.jpeg" alt="示例"></p><h2 id="tianliGPT-key">tianliGPT_key</h2><p>到<a href="https://afdian.net/item/f18c2e08db4411eda2f25254001e7c00">爱发电</a>中购买，原价10元5万字符（Heo限量限时折扣9元）。请求过的内容再次请求不会消耗key，可以无限期使用。</p><p>购买完成后，进入管理后台：<a href="https://summary.zhheo.com/">https://summary.zhheo.com/</a></p><p>登录后点击右上角的“添加新网站”，输入密钥即可</p><p>即可绑定成功。</p><p>参考链接： <a href="https://blog.zhheo.com/p/ec57d8b2.html">https://blog.zhheo.com/p/ec57d8b2.html</a></p><h1>注意事项</h1><p>售后问题可到链接中qq频道提问，实测有效！！！（这个必须点赞）<br>若部署后hexo三连未出现预期效果，可能是缓存问题，等待一会再试<br><s>因为本人踩过坑</s><br>更新版本可直接将js和css链接中的<code>@0.x</code>这种的版本号更改为最新的版本即可</p>]]></content>
-    
-    
-    <summary type="html">强推！！！</summary>
-    
-    
-    
-    <category term="教程" scheme="https://www.wxjxw.cn/categories/%E6%95%99%E7%A8%8B/"/>
-    
-    
-    <category term="教程" scheme="https://www.wxjxw.cn/tags/%E6%95%99%E7%A8%8B/"/>
-    
-    <category term="hexo" scheme="https://www.wxjxw.cn/tags/hexo/"/>
     
   </entry>
   
