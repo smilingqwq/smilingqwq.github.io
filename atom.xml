@@ -6,7 +6,7 @@
   <link href="https://www.wxjxw.cn/atom.xml" rel="self"/>
   
   <link href="https://www.wxjxw.cn/"/>
-  <updated>2024-11-25T08:35:14.561Z</updated>
+  <updated>2025-01-31T09:20:13.722Z</updated>
   <id>https://www.wxjxw.cn/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>生日邀请函</title>
+    <link href="https://www.wxjxw.cn/posts/7e8d5b1a.html"/>
+    <id>https://www.wxjxw.cn/posts/7e8d5b1a.html</id>
+    <published>2025-01-31T09:08:44.000Z</published>
+    <updated>2025-01-31T09:20:13.722Z</updated>
+    
+    <content type="html"><![CDATA[<h1>邀请函</h1><p><img src="https://pic1.imgdb.cn/item/679c9596d0e0a243d4f8c213.png" alt=""></p><h2 id="中文版">中文版</h2><p>亲爱的挚友：</p><p>展信悦。</p><p>岁序更迭，韶华如驶，值此舞象之年，诚邀您拨冗莅临我的十七岁诞辰之庆。愿以清雅之约，共叙情谊，同沐欢愉，为此良辰缀以璀璨星光。</p><p><strong>聚会详情</strong><br>-时间：2025年<strong>2月15日</strong>（具体时辰容后续奉告）<br>-地址：东城时代A区1幢·德悦盛宴大酒店302包厢</p><p>此番相聚，非惟庆贺生辰，更期以文明之风、诚挚之心，缔造一场纯粹而难忘的雅集。为护持清雅氛围，特此倡议：<br>-<strong>禁烟守净</strong>：愿以清新空气为礼，共筑健康之境，令每一息呼吸皆蕴藏诗意。<br>-<strong>以茶代酒</strong>：摒弃浮华之酩酊，以香茗润心，以言笑传情，令此夜成为心灵的共鸣。</p><p>若蒙惠允，望请于<strong>2月5日</strong>前惠复，以便备妥席位。您的莅临，必令蓬荜生辉，亦使此夜之忆更添温润。</p><p>谨以素笺邀约，静候佳音。愿与君执盏共话，不负韶华。</p><p>顺颂<br>时祺</p><p>SMILING SHEN<br>2024年1月</p><h2 id="English-version">English version</h2><p>Dear Friends,</p><p>I warmly invite you to celebrate my 17th birthday on <strong>February 15, 2025</strong>, at Room 302, Deyue Banquet Hotel, Dongcheng Times. Let’s enjoy a refined, <strong>smoke-free, and alcohol-free</strong> evening of heartfelt connection and joy. Kindly RSVP by <strong>February 5, 2025</strong>.</p><p>With gratitude,<br>SMILING SHEN<br>January 2025</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1&gt;邀请函&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;https://pic1.imgdb.cn/item/679c9596d0e0a243d4f8c213.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;中文版&quot;&gt;中文版&lt;/h2&gt;
+&lt;p&gt;亲爱的挚友：&lt;/p&gt;
+&lt;p&gt;展信悦。&lt;/</summary>
+      
+    
+    
+    
+    <category term="材料" scheme="https://www.wxjxw.cn/categories/%E6%9D%90%E6%96%99/"/>
+    
+    
+    <category term="材料" scheme="https://www.wxjxw.cn/tags/%E6%9D%90%E6%96%99/"/>
+    
+  </entry>
   
   <entry>
     <title>秋季随笔</title>
@@ -444,31 +472,6 @@
     <category term="学习" scheme="https://www.wxjxw.cn/tags/%E5%AD%A6%E4%B9%A0/"/>
     
     <category term="随想" scheme="https://www.wxjxw.cn/tags/%E9%9A%8F%E6%83%B3/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>hexo部署友链朋友圈教程</title>
-    <link href="https://www.wxjxw.cn/posts/9d0e3efb.html"/>
-    <id>https://www.wxjxw.cn/posts/9d0e3efb.html</id>
-    <published>2023-12-01T13:35:09.000Z</published>
-    <updated>2023-12-01T13:43:52.066Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="何为友链朋友圈">何为友链朋友圈</h2><p>通过朋友圈，你可以随时获取友链网站的更新内容，并了解友链的活跃情况 。<br>部署简单，功能强大，完全免费。</p><h2 id="注意事项">注意事项</h2><h3 id="vercel遭遇域名污染的通知"><a href="https://fcircle-doc.yyyzyyyz.cn/#/?id=vercel%e9%81%ad%e9%81%87%e5%9f%9f%e5%90%8d%e6%b1%a1%e6%9f%93%e7%9a%84%e9%80%9a%e7%9f%a5">vercel遭遇域名污染的通知</a></h3><p>通过解析到自定义域名来解决，或者切换部署方式。</p><h2 id="后端部署">后端部署</h2><p>fork友链朋友圈的项目仓库，地址：<a href="https://github.com/Rock-Candy-Tea/hexo-circle-of-friends">https://github.com/Rock-Candy-Tea/hexo-circle-of-friends</a><br>编辑<code>/hexo_circle_of_friends/fc_settings.yaml</code>文件，需要修改的配置如下：</p><figure class="highlight sas"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">LINK</span>: - &#123;<span class="keyword">link</span>: <span class="string">&quot;https://xxx.cn/link/&quot;</span>, theme: <span class="string">&quot;butterfly&quot;</span>&#125; # <span class="keyword">link</span>改为你的友链页地址，theme选择你的博客主题</span><br></pre></td></tr></table></figure><p>然后点击仓库的<code>Settings--&gt;Secrets--&gt;New repository secret</code></p><p><img src="https://fcircle-doc.yyyzyyyz.cn/QQ%E5%9B%BE%E7%89%8720220205080305.png" alt="QQ图片20220205080305"></p><p>添加4个环境变量secret：</p><ul><li><code>GH_NAME</code>：github名称，也就是你的用户名</li><li><code>GH_EMAIL</code>：github邮箱，填写你注册github的邮箱</li><li><code>GH_TOKEN</code>：github访问token，获取方式，请参考<a href="https://docs.github.com/cn/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token">官方文档</a>，其中，<code>Select scopes</code>选择<code>repo</code>和<code>workflow</code>。</li><li><code>STORAGE_TYPE</code>：存储方式，填写<code>sqlite</code></li></ul><p><img src="https://fcircle-doc.yyyzyyyz.cn/image-20221008230906574.png" alt="image-20221008230906574"></p><p>配置完成后，应该如下图所示：</p><p><img src="https://fcircle-doc.yyyzyyyz.cn/image-20221009000607317.png" alt="image-20221009000607317"></p><p>然后点击仓库的<code>setting--&gt;Actions--&gt;General--&gt;勾选Read and write permissions--&gt;Save</code></p><p><img src="https://fcircle-doc.yyyzyyyz.cn/workflow_permissions.png" alt=""></p><p>前往<a href="https://vercel.com/">vercel官网</a></p><p>点击<code>New Project</code>新建项目</p><p>找到<code>Import Git Repository</code>，应该可以看见你刚刚<code>fork</code>的仓库，点击<code>Import</code>。</p><p><img src="https://fcircle-doc.yyyzyyyz.cn/QQ%E6%88%AA%E5%9B%BE20220205082743.png" alt="QQ截图20220205082743"></p><p>然后点击<code>Deploy</code>，回到首页，等待其部署完成。</p><p>添加vercel环境变量，进入刚才创建的项目主页，点击<code>Settings--&gt;Environment Variables</code></p><p><img src="https://fcircle-doc.yyyzyyyz.cn/image-20221008231737297.png" alt="image-20221008231737297"></p><p>与前面的secret相同，添加<code>GH_NAME</code>、<code>GH_EMAIL</code>、<code>GH_TOKEN</code>，此外，还需要添加<code>VERCEL_ACCESS_TOKEN</code>，获取方式如下：</p><p>点击vercel页面右上角的<code>Settings--&gt;Tokens---&gt;Create</code></p><p><img src="https://fcircle-doc.yyyzyyyz.cn/image-20221008231925321.png" alt="image-20221008231925321"></p><p>随便输入一个名称后，点击<code>CREATE TOKEN</code>，复制生成的token，添加到vercel环境变量中即可</p><p><img src="https://fcircle-doc.yyyzyyyz.cn/image-20221008232056360.png" alt="image-20221008232056360"></p><p>添加完成后，应该如下图所示：</p><p><img src="https://fcircle-doc.yyyzyyyz.cn/image-20221008232407601.png" alt="image-20221008232407601"></p><p>接下来，回到github，启用<code>fork</code>后仓库的github action，点击<code>Actions--&gt;I understand my workflows, go ahead and enable them</code></p><p><img src="https://fcircle-doc.yyyzyyyz.cn/QQ%E6%88%AA%E5%9B%BE20220205081120.png" alt="QQ截图20220205081120"></p><p>之后点击<code>update-friends-posts</code>并启用<code>workflow</code></p><p><img src="https://fcircle-doc.yyyzyyyz.cn/QQ%E6%88%AA%E5%9B%BE20220205081424.png" alt="QQ截图20220205081424"></p><p>然后点击<code>Run workflow---&gt;Run workflow</code>进行第一次运行</p><p><img src="https://fcircle-doc.yyyzyyyz.cn/image-20221008232746973.png" alt="image-20221008232746973"></p><p>等待运行完毕后，仓库应该会上传<code>data.db</code>，并且vercel也会同步更新。</p><p>前往vercel，在项目中找到<code>DOMAINS</code>下面的地址，如：<a href="https://hexo-friendcircle4-api.vercel.app,/">https://hexo-friendcircle4-api.vercel.app，</a> （注：本来只需要这个地址，但由于vercel被墙，需要绑定自定义域名后，使用自定义域名的地址）。此为apiurl（之后会用到）</p><p><img src="https://fcircle-doc.yyyzyyyz.cn/QQ%E6%88%AA%E5%9B%BE20220205083633.png" alt="QQ截图20220205083633"></p><p>至此，后端部分搭建完成。</p><h2 id="前端部署">前端部署</h2><p>正常新建页面</p><figure class="highlight ebnf"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="attribute">hexo n page fcircle</span></span><br></pre></td></tr></table></figure><p>放入以下代码</p><figure class="highlight awk"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">```html</span><br><span class="line">&lt;script type=<span class="string">&quot;text/javascript&quot;</span>&gt;</span><br><span class="line">  var fdataUser = &#123;</span><br><span class="line">    jsonurl: <span class="string">&#x27;https://cdn.edui.fun/lmm.json&#x27;</span>,  <span class="regexp">//</span>【推荐】json 匹配模式</span><br><span class="line">    <span class="regexp">//</span>apiurl: <span class="string">&#x27;刚刚那个apiurl&#x27;</span>,  <span class="regexp">//</span>自部署api</span><br><span class="line">    <span class="regexp">//i</span>nitnumber: <span class="number">20</span>,  <span class="regexp">//</span>首次加载文章数</span><br><span class="line">    <span class="regexp">//</span>stepnumber: <span class="number">10</span>,  <span class="regexp">//</span>更多加载文章数</span><br><span class="line">    <span class="regexp">//</span>article_sort: <span class="string">&#x27;created&#x27;</span>, <span class="regexp">//</span>文章排序 updated or created</span><br><span class="line">    <span class="regexp">//</span>error_img: <span class="string">&#x27;https://sdn.geekzu.org/avatar/57d8260dfb55501c37dde588e7c3852c&#x27;</span></span><br><span class="line">  &#125;</span><br><span class="line">&lt;/script&gt;</span><br></pre></td></tr></table></figure><h4 id="点击「订阅」，随机显示博客卡片">点击「订阅」，随机显示博客卡片</h4><p><img src="https://r2.immmmm.com/2022/02/cf-beta-5.gif" alt="cf-beta-5"></p><h4 id="点击「活跃」，切换公共库和个人库">点击「活跃」，切换公共库和个人库</h4><p><img src="https://r2.immmmm.com/2022/02/cf-beta-6.gif" alt="cf-beta-6"></p><h4 id="点击头像，随机此博客卡片">点击头像，随机此博客卡片</h4><p><img src="https://r2.immmmm.com/2022/02/cf-beta-7.gif" alt="cf-beta-7"></p><h4 id="点击「日志」，清空本地缓存数据。">点击「日志」，清空本地缓存数据。</h4><p>更新后端后使用。</p><h2 id="参考链接">参考链接</h2><p><a href="https://immmmm.com/hi-friends-circle/">林木木</a><br><a href="https://fcircle-doc.yyyzyyyz.cn/#/">官方文档</a><br><a href="https://docs.github.com/zh/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens">token</a></p>]]></content>
-    
-    
-    <summary type="html">本文介绍了部署朋友圈的教程</summary>
-    
-    
-    
-    <category term="教程" scheme="https://www.wxjxw.cn/categories/%E6%95%99%E7%A8%8B/"/>
-    
-    
-    <category term="教程" scheme="https://www.wxjxw.cn/tags/%E6%95%99%E7%A8%8B/"/>
-    
-    <category term="hexo" scheme="https://www.wxjxw.cn/tags/hexo/"/>
-    
-    <category term="朋友圈" scheme="https://www.wxjxw.cn/tags/%E6%9C%8B%E5%8F%8B%E5%9C%88/"/>
     
   </entry>
   
